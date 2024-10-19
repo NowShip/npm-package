@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.ts"],"sourcesContent":["function testing(num: number) {\n  return num + 12;\n}\n\nexport { testing };\n"],"mappings":"4ZAAA,IAAAA,EAAA,GAAAC,EAAAD,EAAA,aAAAE,IAAA,eAAAC,EAAAH,GAAA,SAASE,EAAQE,EAAa,CAC5B,OAAOA,EAAM,EACf","names":["src_exports","__export","testing","__toCommonJS","num"]}
